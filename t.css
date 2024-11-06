@@ -1,0 +1,46 @@
+
+.ourservices
+{
+	padding: 100px 0px 60px;
+	height: 700px;
+}
+
+.ourservices h1
+{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+
+
+
+}
+.rowsetting
+{
+	margin: 80px 0px !important;
+
+}
+
+.imgsetting
+{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	margin:125px;
+
+}
+
+.fa-shopping-cart
+{
+	margin: 21px;
+}
+
+.fa-desktop
+{
+	margin: 26px;
+}
+
+.fa-lock 
+{
+	margin: 25px;
+}
